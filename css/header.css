@@ -1,0 +1,21 @@
+header {
+    background-color: rgba(70, 69, 71, 1);
+    color: rgba(255, 253, 253, 1);
+    padding: 0.8em;
+    font-size: smaller;
+}
+
+.nav-item {
+    margin-left: 0.8em;
+    margin-right: 0.8em;
+}
+
+.nav-btn {
+    background-color: rgba(42, 29, 23, 1) !important;
+    padding-left: 4em !important;
+    padding-right: 4em !important;
+}
+
+#get-call-nav {
+    margin-right: 4%;
+}

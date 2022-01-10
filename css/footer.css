@@ -1,0 +1,30 @@
+footer {
+    background: #464547;
+}
+
+footer span {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    color: #FFFBFB;
+}
+
+.partners-img-row {
+    margin-top: 4% !important;
+}
+
+.partners {
+    margin-left: -.4em;
+}
+
+#off-site {
+    padding-top: 4em;
+    margin-left: -.4em;
+}
+
+#second-group-info {
+    margin-left: 1em;
+}
+
+#first-group-info {
+    margin-left: -.4em;
+}
